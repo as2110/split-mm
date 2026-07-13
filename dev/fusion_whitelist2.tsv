@@ -1,0 +1,9 @@
+cluster	chr_left	bin_left	chr_right	bin_right	window_size	pad_left	pad_right	mid_left_bp	mid_right_bp
+t4;14	4	2	14	106	1000000	1	1		
+t14;16	14	106	16	79	1000000	1	1		
+t14;20	14	106	20	40	1000000	1	1		
+t6;14	6	42	14	106	1000000	1	1		
+t11;14	11	696	14	1060	100000	1	1		
+t8;14	8	128	14	106	1000000	2	1		
+t6;8	6	12	8	128	1000000	1	1		
+t8;20	8	128	20	31	1000000	1	1		
